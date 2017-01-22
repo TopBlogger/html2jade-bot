@@ -1,0 +1,22 @@
+{
+  "name": "html2jade-bot",
+  "version": "0.0.1",
+  "description": "telegram bot for convert html to jade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "jade",
+    "html",
+    "convert"
+  ],
+  "author": "dmitrypopov",
+  "license": "ISC",
+  "git":"https://github.com/TopBlogger/html2jade-bot.git",
+  "dependencies": {
+    "html2jade": "^0.8.6",
+    "node-telegram-bot-api": "^0.26.0"
+  }
+}
